@@ -30,7 +30,6 @@
     - Business workflows, validations, and extensions
   - **Tools:** Git, GitHub, Postman
 
-
 ### **Software Development Engineer — MountBlue Technologies**
 - **Duration:** **November 2024 – August 2025**
 - **Overview:**  
@@ -45,5 +44,40 @@
   - **CLI & Dev Tools:** Command-line operations, debugging, project setup
 
 ---
+
+## 🧑‍💻 Technical Skills
+
+### Programming Languages
+- JavaScript, Python, SQL
+
+### Frontend Development
+- HTML5, CSS3, Tailwind CSS
+- React.js, Next.js
+- Redux (State Management)
+
+### Backend Development
+- Node.js, Express.js
+- RESTful API Development
+- Authentication (JWT, Cookies)
+
+### Databases
+- MySQL
+- MongoDB
+
+### ERP & Microsoft Technologies
+- Microsoft Dynamics 365
+- Dynamics 365 Business Central
+- Customization: Tables, Pages, Reports, Codeunits
+- Business Logic, Validations, Extensions
+
+### Tools & Platforms
+- Git, GitHub
+- Postman
+- VS Code
+- MySQL Workbench
+- Command Line (CLI)
+
+---
+
 ### 🔥 GitHub Streak Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavdipak&" alt="yadavdipak" /></p>
