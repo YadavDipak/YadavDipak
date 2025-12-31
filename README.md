@@ -87,11 +87,11 @@
 - Developed a college-level ERP system with modules for student management, attendance, and academic records.
 - Technologies used: Django, Python, MySQL / SQLite
 
-### IPL Data Analysis
+### IPL Data Analysis (JavaScript)
 - Performed analysis on IPL match and player data to extract meaningful insights.
-- Technologies used: Node.js, JavaScript, CSV, JSON
+- Technologies used: JavaScript, CSV, JSON
 
-### Trello Clone
+### Trello Clone (React.js + MUI)
 - Built a task management application with boards, lists, and cards functionality.
 - Technologies used: React.js, Redux Toolkit, Material UI
 
