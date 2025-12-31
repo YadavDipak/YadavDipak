@@ -1,3 +1,17 @@
+# 👋 Hi there, I'm **Dipak Yadav**!
+
+---
+
+## 🚀 About Me
+- 🎓 **Education:** B.Tech in Computer Science Engineering from **Dr. APJ Abdul Kalam Technical University, Lucknow**
+  - CGPA: **8.20 / 10**
+  - Graduation Year: **2024**
+- 💻 **Current Role:** Software Engineer at **Bluethink Inc, Noida**
+- 🔧 **Expertise:** Full-Stack Development using **React.js**, **Node.js**, **Express.js**, and **MySQL**
+- 🧠 **Problem Solving:** Strong foundation in DSA & Algorithms
+
+---
+
 <h1 align="center">Hi 👋, I'm Dipak Yadav</h1>
 <h3 align="center">A Passionate and Aspiring Software Engineer.</h3>
 
