@@ -51,7 +51,7 @@
 - JavaScript, Python, SQL
 
 ### Frontend Development
-- HTML5, CSS3, Tailwind CSS
+- HTML5, CSS3, Tailwind CSS, Material UI
 - React.js, Next.js
 - Redux (State Management)
 
