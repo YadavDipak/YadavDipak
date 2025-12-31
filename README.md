@@ -78,6 +78,16 @@
 - Command Line (CLI)
 
 ---
+## 🌐 My Portfolio & Profiles
+
+- 🌐 **Portfolio:** _Personal Website (Work in Progress)_
+- 🖥️ **GitHub:** [github.com/YadavDipak](https://github.com/YadavDipak)
+- 💼 **LinkedIn:** [linkedin.com/in/dipak-yadav-4b1502241](https://www.linkedin.com/in/dipak-yadav-4b1502241/)
+- 📧 **Email:** [yadavdipak2911@gmail.com](mailto:yadavdipak2911@gmail.com)
+- 🧩 **LeetCode:** [leetcode.com/u/Yadav_Dipak](https://leetcode.com/u/Yadav_Dipak/)
+- 📚 **GeeksforGeeks:** [geeksforgeeks.org/profile/yadavdipk2911](https://www.geeksforgeeks.org/profile/yadavdipk2911)
+
+---
 
 ### 🔥 GitHub Streak Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavdipak&" alt="yadavdipak" /></p>
