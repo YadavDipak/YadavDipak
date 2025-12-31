@@ -30,7 +30,6 @@
     - Business workflows, validations, and extensions
   - **Tools:** Git, GitHub, Postman
 
----
 
 ### **Software Development Engineer — MountBlue Technologies**
 - **Duration:** **November 2024 – August 2025**
