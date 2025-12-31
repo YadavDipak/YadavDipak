@@ -8,37 +8,117 @@
   - Graduation Year: **2024**
 - 💻 **Current Role:** Software Engineer at **Bluethink Inc, Noida**
 - 🔧 **Expertise:** Full-Stack Development using **React.js**, **Node.js**, **Express.js**, and **MySQL**
-- 🧠 **Problem Solving:** Strong foundation in DSA & Algorithms
+- 🧠 **Problem Solving:** Strong foundation in DSA & Algorithms with active problem-solving practice on LeetCode and GeeksforGeeks  
+---
+
+## 💼 Professional Experience
+
+### **Software Engineer — Bluethink Inc, Noida**
+- **Duration:** **September 2025 – Present**
+- **Overview:**  
+  Working as a Software Engineer with hands-on experience in **full-stack web development** and the **Microsoft Dynamics ecosystem**. Contributing to real-world business applications, ERP customizations, and API-driven solutions.
+
+- **Responsibilities & Technologies:**
+  - **Frontend:** HTML, CSS, React.js, Tailwind CSS
+  - **Backend:** Node.js, Express.js, REST APIs
+  - **Database:** MySQL, SQL
+  - **ERP & Microsoft Stack:**
+    - Microsoft **Dynamics 365**
+    - **Dynamics 365 Business Central**
+    - Customization of **Tables, Pages, Reports, Codeunits**
+    - Business workflows, validations, and extensions
+  - **Tools:** Git, GitHub, Postman
+
+### **Software Development Engineer — MountBlue Technologies**
+- **Duration:** **November 2024 – August 2025**
+- **Overview:**  
+  Selected for an intensive training program focused on **DSA**, **full-stack development**, and **industry-grade project implementation**.
+
+- **Technologies Learned:**
+  - **Programming & Scripting:** JavaScript, SQL
+  - **Frontend:** HTML, CSS, React.js, React Native, Tailwind CSS
+  - **Backend:** Node.js, Express.js
+  - **State Management:** Redux
+  - **Version Control:** Git, GitHub
+  - **CLI & Dev Tools:** Command-line operations, debugging, project setup
 
 ---
 
-<h1 align="center">Hi 👋, I'm Dipak Yadav</h1>
-<h3 align="center">A Passionate and Aspiring Software Engineer.</h3>
+## 🧑‍💻 Technical Skills
 
-<p align="left"> <img src ="https://drive.google.com/file/d/12VopjFWO1Hpa12937cklBBYww4yzz72h/view?usp=sharing" alt="yadavdipak" /> </p>
+### Programming Languages
+- JavaScript, Python, SQL
 
-<p align="left"> <a href="https://twitter.com/yadav2911dipak" target="blank"><img src="https://img.shields.io/twitter/follow/yadav2911dipak?logo=twitter&style=for-the-badge" alt="yadav2911dipak" /></a> </p>
+### Frontend Development
+- HTML5, CSS3, Tailwind CSS, Material UI
+- React.js, Next.js, React Native
+- Redux (State Management)
 
-- 💬 Ask me about **Python and Front-end with Django**
+### Backend Development
+- Node.js, Express.js, Django
+- RESTful API Development
+- Authentication (JWT, Cookies)
 
-- 📫 How to reach me **yadavdipak2911@gmail.com**
+### Databases
+- MySQL
+- MongoDB
 
-- ⚡ Fun fact **I am Funny**
+### ERP & Microsoft Technologies
+- Microsoft Dynamics 365
+- Dynamics 365 Business Central
+- Customization: Tables, Pages, Reports, Codeunits
+- Business Logic, Validations, Extensions
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yadav2911dipak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yadav2911dipak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dipak-yadav-4b1502241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipak-yadav-4b1502241" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yadavdipak2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yadavdipak2911" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yadav_dipak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yadav_dipak" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yadavdipk2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yadavdipk2911" height="30" width="40" /></a>
-</p>
+### Tools & Platforms
+- Git, GitHub
+- Postman
+- VS Code
+- MySQL Workbench
+- Command Line (CLI)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+## 🏗️ Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavdipak&show_icons=true&locale=en&layout=compact" alt="yadavdipak" /></p>
+### OTP Verification System (Python)
+- Implemented a secure OTP-based verification system for user authentication.
+- Technologies used: Python, SMTP / Email Services
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavdipak&show_icons=true&locale=en" alt="yadavdipak" /></p>
+### College ERP System (Django)
+- Developed a college-level ERP system with modules for student management, attendance, and academic records.
+- Technologies used: Django, Python, MySQL / SQLite
 
+### IPL Data Analysis (JavaScript)
+- Performed analysis on IPL match and player data to extract meaningful insights.
+- Technologies used: JavaScript, CSV, JSON
+
+### Trello Clone (React.js + MUI)
+- Built a task management application with boards, lists, and cards functionality.
+- Technologies used: React.js, Redux Toolkit, Material UI
+
+### Spotify Clone (React Native)
+- Developed a music streaming app clone with authentication, playlists, search, and deep linking features.
+- Technologies used: React Native, Redux, Spotify Web API
+
+### Blog CMS (Next.js + MongoDB)
+- Created a secure blog content management system with user authentication and CRUD operations.
+- Technologies used: Next.js, Node.js, Express.js, MongoDB
+
+### Customer Data Management (Dynamics 365 Business Central)
+- Designed and implemented a custom customer data management solution with tables, pages, reports, and codeunits.
+- Added business logic, validations, and workflows as per ERP requirements.
+- Technologies used: Microsoft Dynamics 365 Business Central, AL Language
+
+---
+## 🌐 My Portfolio & Profiles
+
+- 🌐 **Portfolio:** _Personal Website (Work in Progress)_
+- 🖥️ **GitHub:** [github.com/YadavDipak](https://github.com/YadavDipak)
+- 💼 **LinkedIn:** [linkedin.com/in/dipak-yadav-4b1502241](https://www.linkedin.com/in/dipak-yadav-4b1502241/)
+- 📧 **Email:** [yadavdipak2911@gmail.com](mailto:yadavdipak2911@gmail.com)
+- 🧩 **LeetCode:** [leetcode.com/u/Yadav_Dipak](https://leetcode.com/u/Yadav_Dipak/)
+- 📚 **GeeksforGeeks:** [geeksforgeeks.org/profile/yadavdipk2911](https://www.geeksforgeeks.org/profile/yadavdipk2911)
+
+---
+
+### 🔥 GitHub Streak Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavdipak&" alt="yadavdipak" /></p>
