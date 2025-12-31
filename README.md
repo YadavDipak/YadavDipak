@@ -45,4 +45,5 @@
   - **CLI & Dev Tools:** Command-line operations, debugging, project setup
 
 ---
+### 🔥 GitHub Streak Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavdipak&" alt="yadavdipak" /></p>
